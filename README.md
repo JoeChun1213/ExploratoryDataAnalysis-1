@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ### Pyber_Challenge
-Pyber Challenge includes 'PyBer_Challenge.ipynb' & 'PyBer_Challenge figure' in the 'Analysis' folder
+## Pyber Challenge includes 'PyBer_Challenge.ipynb' & 'PyBer_Challenge figure' in the 'Analysis' folder
   
   Summary_df shows that average metrics are inverse proportional to total metrics.
   
