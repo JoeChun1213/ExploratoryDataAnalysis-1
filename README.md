@@ -1,3 +1,12 @@
+## Objectives
+In this project, we aim to 
+- Use Pandas functions like groupby, pivot, resample, and reset_index on a DataFrame.
+- Use Pandas methods and attributes on a DataFrame or Series.
+- Create a newDataFrame from multiple groupby() Series.
+- Format columns of a DataFrame.
+- Create a multiple-line graph.
+- Annotate and apply styling to the chart.
+
 ## Project Overview
 As we build a variety of charts, we will leverage our knowledge of Python arrays and tuples, and learn how to apply Pandas methods, functions, and conditional expression, as well as to perform mathematical calculations on Series and DataFrames.
 
@@ -43,13 +52,6 @@ The final pie chart is the percentage of the total drivers for each city type, w
 ## Challenge Overview
 We've been asked by our CEO to create an overall snapshot of the ride-sharing data. In addition to our scatter and pie charts, she would like to see a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
 
-### Objectives:
-- Use Pandas functions like groupby, pivot, resample, and reset_index on a DataFrame.
-- Use Pandas methods and attributes on a DataFrame or Series.
-- Create a newDataFrame from multiple groupby() Series.
-- Format columns of a DataFrame.
-- Create a multiple-line graph.
-- Annotate and apply styling to the chart.
 
 ## Challenge Summary
 Create a summary DataFrame that showcases the following:
