@@ -1,5 +1,5 @@
 ## Project Overview
-As we build a variety of charts, we will leverage our knowledge of Python arrays and turples, and learn how to apply Pandas methods, functions, and conditional expresion, as well as perform mathematical calculations on Series and DataFrames.
+As we build a variety of charts, we will leverage our knowledge of Python arrays and tuples, and learn how to apply Pandas methods, functions, and conditional expression, as well as to perform mathematical calculations on Series and DataFrames.
 
 By the end of this module, we will be able to:
 - Create line, bar, scatter, bubble, pie, and box-and-whiskers plots using Matplotlib.
